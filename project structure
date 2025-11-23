@@ -1,0 +1,12 @@
+weather-app/
+│── app.py
+│── requirements.txt
+│── .env
+│── assets/
+│     ├── sunny.png
+│     ├── cloudy.png
+│     ├── rain.png
+│     ├── storm.png
+│     ├── snow.png
+│     └── mist.png
+
